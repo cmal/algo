@@ -1,0 +1,3 @@
+[submodule "djh_ds_thu"]
+	path = djh_ds_thu
+	url = git@github.com:cmal/djh_ds_thu.git
